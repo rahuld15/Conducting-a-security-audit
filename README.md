@@ -1,4 +1,4 @@
-# SECURITY AUDIT 
+# INTERNAL SECURITY AUDIT 
 
 This scenario is based on a fictional company:
 
