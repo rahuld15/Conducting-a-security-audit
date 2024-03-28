@@ -9,3 +9,11 @@ The manager of the IT department has decided that an internal IT audit needs to 
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 
 My task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
+
+<a href="https://github.com/rahuld15/Conducting-a-security-audit/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.pdf">Botium toys: Scope, goals and risk assessment report</a>
+
+<a href="https://github.com/rahuld15/Conducting-a-security-audit/blob/main/Control%20categories.pdf">Control categories</a>
+
+<a href="https://github.com/rahuld15/Conducting-a-security-audit/blob/main/Controls%20and%20compliance%20checklist%20(1).pdf">Controls and compliance checklist</a>
+
+
